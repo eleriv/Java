@@ -6,7 +6,6 @@ public class Main {
         BurgList.Burgers();
 
     }
-
 }
 //Esimene ülesanne
 //public class Main {
